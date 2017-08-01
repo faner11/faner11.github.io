@@ -11,7 +11,7 @@
  - 范皓/男/1995 
  - 专科/计算机系/应届毕业生
  - 微博：[@我铅笔](http://weibo.com/hellohaozi?refer_flag=1001030102_)
- - 简历动态展示：https://faner11.github.io/
+ - 动态简历展示：https://faner11.github.io/
  - Github：https://github.com/faner11 
 
  - 期望职位：Web前端高级程序员，Node工程师
