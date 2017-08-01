@@ -187,8 +187,7 @@ $(function() {
 	w.load("</ul>");
 	w.load("<h1 class='writecode'>项目</h1>");
 	w.load("<ul>");
-	// w.load("<li class='writecode'><a href='http://www.4000191177.com' target='_blank'>www.4000191177.com</a></li>");
-	// w.load("<li class='writecode'><a href='http://jianianhua.youlunshidai.com/' target='_blank'>jianianhua.youlunshidai.com</a></li>");
+	w.load("<li class='writecode'><a href='https://github.com/faner11/free' target='_blank'>无声音乐</a></li>");
 	w.load("</ul>");
 	c.load("<p><div class='comment writecode'>/**</div>");
 	c.load("<div class='comment writecode'>&nbsp;*左面的简历看起来不是太令人满意，让我们先给他来点动态渲染</div>");
