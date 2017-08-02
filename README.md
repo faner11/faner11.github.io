@@ -25,7 +25,7 @@
 
 ## 开源项目
 - [无声音乐](https://github.com/faner11/free)：在线音乐播放器，详情请见readme
-- [无声音乐 for Android](https://github.com/faner11/WSHybrid)：Hybridapp
+- [无声音乐 for Android](https://github.com/faner11/WSHybrid)：将无声音乐重构为Hybridapp
 
 # 技能清单
 
