@@ -175,7 +175,6 @@ $(function() {
 	w.load("<h1 class='writecode'>联系我</h1>");
 	w.load("<ul>");
 	w.load("<li class='writecode'>mail:fan233333@gmail.com</li>");
-	w.load("<li class='writecode'>blog:<a href='#' target='_blank'>blog.youlunshidai.com</a></li>");
 	w.load("<li class='writecode'>github:<a href='https://github.com/ccfromstar' target='_blank'>https://github.com/ccfromstar</a></li>");
 	w.load("</ul>");
 	w.load("<h1 class='writecode'>技能</h1>");
