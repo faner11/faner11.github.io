@@ -3,7 +3,7 @@ $(function() {
 	c.load("<p><div class='bef_comment writecode'>/**</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*hi,我的名字叫范皓，是一名应届毕业生</div>");
-	c.load("<div class='bef_comment writecode'>&nbsp;*学了些Web前端技术</div>",2000);
+	c.load("<div class='bef_comment writecode'>&nbsp;*同时也是一名偏逻辑Web前端工程师</div>",2000);
 	c.load("<div class='bef_comment writecode'>&nbsp;*让我们来点实际的，看看我能做些什么</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*/</div></p>");
 	c.load("<p><div class='bef_comment writecode'>/**</div>");
@@ -179,14 +179,16 @@ $(function() {
 	w.load("</ul>");
 	w.load("<h1 class='writecode'>技能</h1>");
 	w.load("<ul>");
-	w.load("<li class='writecode'>熟练Nodejs技术,熟练运用express,sails,meteor框架</li>");
-	w.load("<li class='writecode'>熟练各种Web前端开发技术H5,CSS3,Vue,React,Angular</li>");
-	w.load("<li class='writecode'>熟练mongodb和文档型数据库(domino)</li>");
+	w.load("<li class='writecode'>熟练Nodejs技术,熟练运用express</li>");
+	w.load("<li class='writecode'>熟练各种Web前端开发技术H5,CSS3,Vue,Angular</li>");
+	w.load("<li class='writecode'>熟练mongodb</li>");
 	w.load("<li class='writecode'>熟练svn,git等常用版本管理工具</li>");
 	w.load("</ul>");
 	w.load("<h1 class='writecode'>项目</h1>");
 	w.load("<ul>");
 	w.load("<li class='writecode'><a href='https://github.com/faner11/free' target='_blank'>无声音乐</a></li>");
+	w.load("<li class='writecode'><a href='https://github.com/faner11/WSHybrid' target='_blank'>无声音乐(Hybridapp)</a></li>");
+	w.load("<li class='writecode'><a href='(https://github.com/faner11/Admin' target='_blank'>后台管理平台</a></li>");
 	w.load("</ul>");
 	c.load("<p><div class='comment writecode'>/**</div>");
 	c.load("<div class='comment writecode'>&nbsp;*左面的简历看起来不是太令人满意，让我们先给他来点动态渲染</div>");
