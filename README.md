@@ -26,7 +26,7 @@
 ## 开源项目
 - [无声音乐](https://github.com/faner11/free)：在线音乐播放器，详情请见readme
 - [无声音乐Hybridapp](https://github.com/faner11/WSHybrid)：将无声音乐重构为Hybridapp
-- [后台管理平台](https://github.com/faner11/Admin): 博客管理平台
+- [后台管理平台](https://github.com/faner11/Admin): 博客管理平台，使用后台渲染，服务器环境Node，数据库Mongo
 
 # 技能清单
 
