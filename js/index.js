@@ -2,8 +2,8 @@ $(function() {
 	var c = new Coder("style-text");
 	c.load("<p><div class='bef_comment writecode'>/**</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*</div>");
-	c.load("<div class='bef_comment writecode'>&nbsp;*hi,我的名字叫范皓，是一名应届毕业生</div>");
-	c.load("<div class='bef_comment writecode'>&nbsp;*同时也是一名偏逻辑Web前端工程师</div>",2000);
+	c.load("<div class='bef_comment writecode'>&nbsp;*hi,我的名字叫范皓，是个前端工程师</div>");
+	c.load("<div class='bef_comment writecode'>&nbsp;*同时也是一名Node工程师</div>",2000);
 	c.load("<div class='bef_comment writecode'>&nbsp;*让我们来点实际的，看看我能做些什么</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*/</div></p>");
 	c.load("<p><div class='bef_comment writecode'>/**</div>");
@@ -170,7 +170,7 @@ $(function() {
 	var w = new Coder("md");
 	w.load("<h1 class='writecode'>简历</h1>");
 	w.load("<p><div class='writecode'>范皓</div>");
-	w.load("<div class='writecode'>计算机系应届毕业生</div>");
+	w.load("<div class='writecode'>计算机专业</div>");
 	w.load("<div class='writecode'>前端/NodeJS 开发工程师</div></p>");
 	w.load("<h1 class='writecode'>联系我</h1>");
 	w.load("<ul>");
