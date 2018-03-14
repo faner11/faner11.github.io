@@ -24,22 +24,21 @@
 
 #### 工作描述：
 
-- 参与公司各个项目的前端开发工作，根据设计图进行开发布局；
-- 运用 HTML+CSS+JavaScript 技术对所参与的项目进行开发和维护，完成相关页面的改版需求，协调测试人员及跟进
-开发过程中的 bug；
-- 与后台开发人员进行相关的沟通，并完成前后台的对接工作；
+- -；
+- -；
+- -；
 
 ## 开源项目
-- [无声音乐](https://github.com/faner11/free)
+- [无声音乐]()
  + 负责该项目首页、榜单、播放器等各个模块维护、升级、BUG 修复。
  + 使用 DIV+CSS 进行页面排版
  + 通过 Ajax 与后台进行数据交互，完成音乐信息抓取以及各类信息调取。
  + 运用 Jquery、swiper 实现页面的动态效果、图片轮播等。
-- [无声音乐Hybridapp](https://github.com/faner11/WSHybrid)
+- [无声音乐Hybridapp]()
  + 负责无声音乐Hybrid重构
  + 使用工具APIcloud
  + 因其主要功能已在webapp实现，所以此次迁移重构难度不大 
-- [博客后台管理平台](https://github.com/faner11/Admin)
+- [博客后台管理平台]()
  + Node+ Express+MongoDB+Angular
  + 负责服务端搭建及用户登录，文章分类存储等接口功能；
  + 使用mongoose进行数据存储
